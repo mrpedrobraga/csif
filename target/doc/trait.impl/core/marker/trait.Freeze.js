@@ -1,0 +1,3 @@
+(function() {var implementors = {
+"stif_test":[["impl Freeze for <a class=\"enum\" href=\"stif_test/csif/errors/enum.ParsingError.html\" title=\"enum stif_test::csif::errors::ParsingError\">ParsingError</a>",1,["stif_test::csif::errors::ParsingError"]],["impl Freeze for <a class=\"struct\" href=\"stif_test/csif/struct.SizedPointer.html\" title=\"struct stif_test::csif::SizedPointer\">SizedPointer</a>",1,["stif_test::csif::SizedPointer"]]]
+};if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

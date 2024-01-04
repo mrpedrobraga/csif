@@ -1,0 +1,1 @@
+/home/pedro/Dev/stif-test/target/debug/libstif_test.rlib: /home/pedro/Dev/stif-test/src/csif/errors.rs /home/pedro/Dev/stif-test/src/csif/mod.rs /home/pedro/Dev/stif-test/src/csif/pull.rs /home/pedro/Dev/stif-test/src/lib.rs
